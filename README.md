@@ -24,7 +24,8 @@ A lightweight serverless lead capture engine on AWS that:
 
 # How it works (Architecture Flow)
 
-![Insurance Lead Capture Architecture](insurance-lead-capture-architecture.png)
+
+![Insurance Lead Capture Architecture](Insurance%20Lead%20Capture%20architecture.png)
 
 
 🖥️ Prospect clicks ad and fills the form.
